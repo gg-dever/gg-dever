@@ -1,7 +1,7 @@
 # Gage Gaubert
 ### Data Scientist · Automation Engineer · Agentic Systems
 
-Currently based between SEA and Dallas, Texas doing field work for a non-profit building image training data for trash recognition models used in robotic river and waterway cleanup systems.
+Currently based between SEA and Dallas, Texas.
 
 By day I consult for two clients. At More Streams I am building out their flagship client portal, MCP architecture, and full integration stack across Stripe, Spotify, Pipedrive, and Notion. At Wildwood Development I build quarterly predictive models that forecast unforeseen construction costs before they become financial liabilities — an engagement that started as one quarter of work and turned into a recurring contract.
 
