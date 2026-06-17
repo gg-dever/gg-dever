@@ -1,5 +1,5 @@
 # Gage Gaubert
-### Data Scientist · Automation Engineer · Agentic Systems
+### Junior Data Scientist · Automation Engineer · Agentic Systems
 
 Currently based between SEA and Dallas, Texas.
 
